@@ -32,7 +32,7 @@ inp.append('hello planet')
 
 ## Why
 We believe ops doesn't need to be complicated. If `hypercore` is distributed
-streams, `hyperfilter` is a distributed reducer for streams. We needed this to
+streams, `hyperreduce` is a distributed reducer for streams. We needed this to
 to turn our feed of server errors into a single meaningful value.
 
 ## API
